@@ -34,4 +34,3 @@ The files are assumed to be stored in the given locations in the Linux OS. This 
 `hadoop fs -cat /wordcount/output/part-00000`
 
 
-# Same like Wiki-Link-Analyser Just give the wiki web page as input.
